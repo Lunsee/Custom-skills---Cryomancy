@@ -1,3 +1,5 @@
+*The repository contains 2 directories with and without a bat file, both directories are working and the difference is only in the structure of the mod (m2 will install any one 100% without problems), this is done so that if someone has problems to try another file in the repository
+
 A little Background:
 
 I really liked the  Pyromancy mod﻿. And I thought they only fire magic, and so I decided to make a similar mod for ice magic, which is based on Pyromancy
@@ -12,19 +14,8 @@ ________________________________________________________________________________
 Cryomancy Perk Tree use regular perk points. So you have to choose between vanilla Destruction Perk Tree or this to invest your  perks. And that's where the specialization aspect comes in. You have to sacrifice some of your talents so you can specialise on being a frost magic focused Cryomancer.
 Cryomancy level will be synchronized with your destruction. Your Cryomancy skill level will be same level as your destruction. When you load up the first time and every time your destruction increases , they will be synchronized.
 
-Description of all perks:
-[spoiler]
-Initiation(20): You have decided to join the ice element. Your Frost based spells do 20% more damage but your Fire based spell damage decrease by 50% and they cost 25% more to cast.
-Power Fuel Cryomancy(30): You can release your inner cold. Grants you the "Power Fuel Cryomancy". When activated your fire spells do 20% more damage for 60 seconds but you take 20% more damage from every other source. (Cost: 200 Magicka).
-Instant Cristalisation(30): Gives you the "Instant Crystallization" spell. When using the Intense Sweating spell, your frost resistance increases by 20 points for 180 seconds.If you are the Frost King, then the fire resistance increases by the same amount.
-Body Power(40/60): Do you feel how the cold affects your body. Frost based spells do 5/10% more damage while your health is full..
-Fair Trade(40): Bring physical endurance as a gift of magic. Trade your stamina for magic essence. Your Stamina is reduced by 50 points while your magicka is increased by 50 points.
-Night Blaze(50/70): You feel a rush of cold inside when the sun disappears below the horizon...When sun is Down , your inner Frost gets stronger, increasing your frost based spell damage by 5/10% while decreasing your fire based spell damage by 10/20%.
-Frost Mind(75): Your lessons with the study of this element of magic have improved your cold management. Your frost spells cost 10% less magic.
-Cryomancer(80): You have become one of the greatest ice magicians, everyone is afraid of your cold. Frost spells do 15% more damage but costs 40% more to cast.
-Frost King(90): Frost has become a part of you... You became immune to frost damage. But you take double damage from fire and 150% damage from shock spells.
-The Lord of the White Flood(100): You have discovered a new source of power - the white flood. Frost spells do 35% more damage but costs 175% more to cast.
-[/spoiler]
+Description of all perks you can see on my nexusmods page: https://www.nexusmods.com/skyrimspecialedition/mods/121265
+
 ___________________________________________________________________________________________________________________________________________________________
 
 Im open for  ideas/improvements ... Tell me your suggestions. Im pretty new to modding.
