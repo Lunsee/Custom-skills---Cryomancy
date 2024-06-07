@@ -1,4 +1,4 @@
-A little Background
+A little Background:
 
 I really liked the  Pyromancy mod﻿. And I thought they only fire magic, and so I decided to make a similar mod for ice magic, which is based on Pyromancy
 
