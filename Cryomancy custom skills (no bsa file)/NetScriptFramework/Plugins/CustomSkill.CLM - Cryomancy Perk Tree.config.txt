@@ -1,0 +1,192 @@
+#==================================================
+#Skill Name
+#==================================================
+Name = "Cryomancy"
+
+#==================================================
+#Skill description
+#==================================================
+Description = "You feel strange, the ice is calling you..."
+
+#==================================================
+#Skill background
+#==================================================
+Skydome = "Interface/intperkskydome.nif"
+SkydomeNormalNif = true
+
+#==================================================
+#Level of skill
+#==================================================
+LevelFile = "Cryomancy.esp"
+LevelId = 0xD61 
+
+#==================================================
+#Skill level up ratio. (Variable between 0 and 1)
+#==================================================
+RatioFile = "Cryomancy.esp"
+RatioId = 0x805  
+
+#==================================================
+#Skill level
+#==================================================
+ShowLevelupFile = "Cryomancy.esp"
+ShowLevelupId = 0x804 
+
+#==================================================
+#Skill menu open
+#==================================================
+ShowMenuFile = "Cryomancy.esp"
+ShowMenuId = 0x803  
+
+#==================================================
+#Vampirism perk points
+#==================================================
+PerkPointsFile = ""
+PerkPointsId = 0
+
+#==================================================
+#Legendary
+#==================================================
+LegendaryFile = ""
+LegendaryId = 0
+
+#==================================================
+#Skill Colour
+#==================================================
+ColorFile = ""
+ColorId = 0
+
+#==================================================
+#For testing ONLY
+#==================================================
+DebugReloadFile = "Cryomancy.esp"
+DebugReloadId = 0x806  
+
+#==================================================
+#Node 0
+#==================================================
+Node0.Enable = true
+Node0.Links = "1"
+
+#==================================================
+#Perks - Requirements use the global in Skill Level
+#==================================================
+
+#==================================================
+#Initiation
+#==================================================
+Node1.Enable = true
+Node1.PerkFile = "Cryomancy.esp"
+Node1.PerkId = 0x814  
+Node1.X = 0
+Node1.Y = 0
+Node1.GridX = 3
+Node1.GridY = 0
+Node1.Links = "2 3 4"
+
+#==================================================
+#Fuel Cryomancy
+#==================================================
+Node2.Enable = true
+Node2.PerkFile = "Cryomancy.esp"
+Node2.PerkId = 0x80A  
+Node2.X = 0
+Node2.Y = 0
+Node2.GridX = 4
+Node2.GridY = 1
+Node2.Links = ""
+
+#==================================================
+#Flash Crystalisation
+#==================================================
+Node3.Enable = true
+Node3.PerkFile = "Cryomancy.esp"
+Node3.PerkId = 0x812  
+Node3.X = 0
+Node3.Y = 0
+Node3.GridX = 2
+Node3.GridY = 1
+Node3.Links = ""
+
+#==================================================
+#Body Power
+#==================================================
+Node4.Enable = true
+Node4.PerkFile = "Cryomancy.esp"
+Node4.PerkId = 0x80F  
+Node4.X = 0
+Node4.Y = 0
+Node4.GridX = 3
+Node4.GridY = 2
+Node4.Links = "5 6"
+
+#==================================================
+#Fair Trade
+#==================================================
+Node5.Enable = true
+Node5.PerkFile = "Cryomancy.esp"
+Node5.PerkId = 0x80D  
+Node5.X = 0
+Node5.Y = 0
+Node5.GridX = 4
+Node5.GridY = 3
+Node5.Links = ""
+
+#==================================================
+#NightBlaze
+#==================================================
+Node6.Enable = true
+Node6.PerkFile = "Cryomancy.esp"
+Node6.PerkId = 0x813  
+Node6.X = 0
+Node6.Y = 0
+Node6.GridX = 3
+Node6.GridY = 4
+Node6.Links = "7"
+
+#==================================================
+#Frost Mind
+#==================================================
+Node7.Enable = true
+Node7.PerkFile = "Cryomancy.esp"
+Node7.PerkId = 0x817  
+Node7.X = 0
+Node7.Y = 0
+Node7.GridX = 3
+Node7.GridY = 6
+Node7.Links = "8 9"
+
+#==================================================
+#Cryomancer
+#==================================================
+Node8.Enable = true
+Node8.PerkFile = "Cryomancy.esp"
+Node8.PerkId = 0x807  
+Node8.X = 0
+Node8.Y = 0
+Node8.GridX = 4
+Node8.GridY = 7
+Node8.Links = "10"
+
+#==================================================
+#Frost King
+#==================================================
+Node9.Enable = true
+Node9.PerkFile = "Cryomancy.esp"
+Node9.PerkId = 0x815  
+Node9.X = 0
+Node9.Y = 0
+Node9.GridX = 2
+Node9.GridY = 8
+Node9.Links = ""
+#==================================================
+#The Lord of the white flood
+#==================================================
+Node10.Enable = true
+Node10.PerkFile = "Cryomancy.esp"
+Node10.PerkId = 0x816    
+Node10.X = 0
+Node10.Y = 0
+Node10.GridX = 4
+Node10.GridY = 8
+Node10.Links = ""
